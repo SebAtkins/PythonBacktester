@@ -6,3 +6,5 @@ This is a small project to try to create a simple backtesting engine in Python.
 - CD into repository
 - Run: `pip install -r requirements.txt`
 
+## Usage
+- Import BacktestEngine
